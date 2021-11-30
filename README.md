@@ -8,6 +8,8 @@
 | `POST: http://localhost:8080/country/` | Utilizado para criar um novo registro na api. |
 | `PUT: http://localhost:8080/country/{id}` | Atualiza dados de um registro na api. |
 | `DELETE: http://localhost:8080/country/{id}` | Remove um registro do sistema. |
+| `GET: http://localhost:8080/country/id` | Retorna informações de todos os países ordenado pelo id. |
+| `GET: http://localhost:8080/country/nome` | Retorna informações de todos os países ordenado pelo nome do pais. |
 
 `GET: http://localhost:8080/country/`
 
