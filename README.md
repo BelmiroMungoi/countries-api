@@ -28,6 +28,7 @@
 ### :coffee: Back end
 - [Java](https://www.oracle.com/br/java/)
 - JPA / Hibernate
+- PostgreSql
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Spring Framework](https://spring.io/projects/spring-framework)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa) 
