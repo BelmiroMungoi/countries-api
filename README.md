@@ -41,9 +41,9 @@
 Pré-requisitos: Java 8 e Base de Dados Postgresql
 
 ```bash
-#criar uma base de dados com o nome countries
-   modificar as credencias em src/main/resources/application.properties
-   username e password
+# criar uma base de dados com o nome countries
+# modificar as credencias em src/main/resources/application.properties
+# username e password
    
 # clonar repositório
 git clone https://github.com/BelmiroMungoi/countries-api.git
