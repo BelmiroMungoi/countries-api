@@ -9,7 +9,19 @@
 | `PUT: http://localhost:8080/country/{id}` | Atualiza dados de um registro na api. |
 | `DELETE: http://localhost:8080/country/{id}` | Remove um registro do sistema. |
 
+`GET: http://localhost:8080/country/`
 
+   +Body
+   
+      {
+         "id":1,"
+         nome":"Mozambique",
+         "capital":"Maputo",
+         "regiao":"Africa",
+         "subRegiao":"sul da africa",
+         "area":"Sul"
+      }
+      
 ## 🛠 Tecnologias utilizadas
 ### :coffee: Back end
 - [Java](https://www.oracle.com/br/java/)
