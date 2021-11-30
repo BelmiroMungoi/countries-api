@@ -33,3 +33,24 @@
 - [Spring Framework](https://spring.io/projects/spring-framework)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa) 
 - [Maven](https://maven.apache.org/)
+
+## 🚀 Como executar o projeto
+
+### 🎲 Back end
+
+Pré-requisitos: Java 8 e Base de Dados Postgresql
+
+```bash
+#criar uma base de dados com o nome countries
+   modificar as credencias em src/main/resources/application.properties
+   username e password
+   
+# clonar repositório
+git clone https://github.com/BelmiroMungoi/countries-api.git
+
+# entrar na pasta do projeto back end
+cd backend
+
+# executar o projeto
+./mvnw spring-boot:run
+```
