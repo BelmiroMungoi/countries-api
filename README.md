@@ -6,7 +6,7 @@
 |---|---|
  | `GET: https://countries-api29.herokuapp.com/country/` | Retorna informações de todos os países na base de dados. |
 | `POST: https://countries-api29.herokuapp.com/country/` | Utilizado para criar um novo registro na api. |
-| `PUT: https://countries-api29.herokuapp.com/country/{id}` | Atualiza dados de um registro na api. |
+| `PUT: https://countries-api29.herokuapp.com/country/` | Atualiza dados de um registro na api. |
 | `DELETE: https://countries-api29.herokuapp.com/country/{id}` | Remove um registro do sistema. |
 | `GET: https://countries-api29.herokuapp.com/country/id` | Retorna informações de todos os países ordenado pelo id. |
 | `GET: https://countries-api29.herokuapp.com/country/nome` | Retorna informações de todos os países ordenado pelo nome do pais. |
