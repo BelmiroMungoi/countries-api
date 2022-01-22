@@ -4,14 +4,14 @@
  Requisições para a API devem seguir os padrões:
 | Método | Descrição |
 |---|---|
- | `GET: http://localhost:8080/country/` | Retorna informações de todos os países na base de dados. |
-| `POST: http://localhost:8080/country/` | Utilizado para criar um novo registro na api. |
-| `PUT: http://localhost:8080/country/{id}` | Atualiza dados de um registro na api. |
-| `DELETE: http://localhost:8080/country/{id}` | Remove um registro do sistema. |
-| `GET: http://localhost:8080/country/id` | Retorna informações de todos os países ordenado pelo id. |
-| `GET: http://localhost:8080/country/nome` | Retorna informações de todos os países ordenado pelo nome do pais. |
+ | `GET: https://countries-api29.herokuapp.com/country/` | Retorna informações de todos os países na base de dados. |
+| `POST: https://countries-api29.herokuapp.com/country/` | Utilizado para criar um novo registro na api. |
+| `PUT: https://countries-api29.herokuapp.com/country/{id}` | Atualiza dados de um registro na api. |
+| `DELETE: https://countries-api29.herokuapp.com/country/{id}` | Remove um registro do sistema. |
+| `GET: https://countries-api29.herokuapp.com/country/id` | Retorna informações de todos os países ordenado pelo id. |
+| `GET: https://countries-api29.herokuapp.com/country/nome` | Retorna informações de todos os países ordenado pelo nome do pais. |
 
-`GET: http://localhost:8080/country/`
+`GET: https://countries-api29.herokuapp.com/country/`
 
    +Body
    
